@@ -28,4 +28,4 @@ with tabs[2]:
 
 # Tab 4: Fun Tab
 with tabs[3]:
-    print("current time: 8:15PM EST")
+    st.write("current time: 8:15PM EST")
