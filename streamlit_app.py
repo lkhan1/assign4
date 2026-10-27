@@ -28,4 +28,4 @@ with tabs[2]:
 
 # Tab 4: Fun Tab
 with tab[3]:
-    print(Lyba Khan)
+    print (Lyba Khan)
