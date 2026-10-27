@@ -27,5 +27,5 @@ with tabs[2]:
     st.bar_chart(df['Volume'])
 
 # Tab 4: Fun Tab
-with tab[3]:
+with tabs[3]:
     print("Lyba Khan")
